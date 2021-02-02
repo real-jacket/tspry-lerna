@@ -1,0 +1,10 @@
+.tspry-layout {
+  display: flex;
+  flex-direction: column;
+  &-hasAside {
+    flex-direction: row;
+  }
+  &-content {
+    flex-grow: 1;
+  }
+}

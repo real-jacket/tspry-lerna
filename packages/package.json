@@ -1,0 +1,25 @@
+{
+  "name": "tspry",
+  "version": "0.0.5",
+  "description": "",
+  "main": "dist/lib/index",
+  "types": "dist/lib/index",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "test": "jest --config jest.config.js"
+  },
+  "repository": "git@github.com:real-jacket/tspry.git",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/real-jacket/tspry/issues"
+  },
+  "homepage": "https://github.com/real-jacket/tspry#readme",
+  "dependencies": {
+    "react": "17.0.0-rc.0",
+    "react-dom": "17.0.0-rc.0"
+  }
+}
